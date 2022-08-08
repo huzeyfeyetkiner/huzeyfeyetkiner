@@ -20,5 +20,5 @@ I am a second year student at Yıldız Technical University, Department of Compu
 
 I am currently learning JavaScript
 
-How to reachme (Linkedin)[https://www.linkedin.com/in/huzeyfe-yetkiner/]
+How to reachme [Linkedin](https://www.linkedin.com/in/huzeyfe-yetkiner/) 
 
