@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there,  I'm Huzeyfe 🙋‍♀️</h2>
+<h2 align="center"> Hi there,  I'm Huzeyfe 👋♀️</h2>
  
 <h3 align="center">    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> <h3/>
  
