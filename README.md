@@ -1,26 +1,44 @@
-### Hi there 👋
+<h2 align="center"> Hi there,  I'm Huzeyfe 🙋‍♀️</h2>
+ 
+<h3 align="center">    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> <h3/>
+ 
 
-<!--
-**huzeyfeyetkiner/huzeyfeyetkiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-I am a second year student at Yıldız Technical University, Department of Computer Education and Instructional Technologies. After my graduation, I aim to work in the field of software development. Currently, I am following the Beginner Level Frontend Web Development Path, which was prepared in cooperation with patika.dev and kodluzun.org.
-
-- 🌱 I am currently learning JavaScript
-
-- 📫 How to reachme [Linkedin](https://www.linkedin.com/in/huzeyfe-yetkiner/) [Mail](mailto:https://www.linkedin.com/in/huzeyfe-yetkiner/) 
+-  I’m currently working on HTML/CSS/Bootstrap
+-  I’m currently learning Javascript
+-  How to reach me: yetkinerhuzeyfe@gmail.com
 
 
 
+
+
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/huzeyfe-yetkiner/" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
+<a href="https://www.hackerrank.com/yetkinerhuzeyfe" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
+<a href="https://app.patika.dev/huzo" target="blank"><img align="left" alt="Patika" width="40px" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png"/></a>
+
+<br/><br/>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+  
+
+
+<br/>
+
+
+ <hr/>
+
+[![Visitors](http://visitor-badge.glitch.me/badge?page_id=huzeyfeyetkiner.visitor-badge)](https://github.com/huzeyfeyetkiner) 
+
+<p style="vertical-align:top;">
+   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irematess&layout=compact&theme=dark">
+  </p>
+  <p style="vertical-align:top;">
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=irematess&show_icons=true&theme=dark">
+  </p>
