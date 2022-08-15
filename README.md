@@ -37,8 +37,8 @@
 [![Visitors](http://visitor-badge.glitch.me/badge?page_id=huzeyfeyetkiner.visitor-badge)](https://github.com/huzeyfeyetkiner) 
 
 <p style="vertical-align:top;">
-   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irematess&layout=compact&theme=dark">
+   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzeyfeyetkiner&layout=compact&theme=dark">
   </p>
   <p style="vertical-align:top;">
-  <img alt="" src="https://github-readme-stats.vercel.app/api?username=irematess&show_icons=true&theme=dark">
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=huzeyfeyetkiner&show_icons=true&theme=dark">
   </p>
