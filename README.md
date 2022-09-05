@@ -3,7 +3,7 @@
 <h3 align="center">    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> <h3/>
  
 
--  I’m currently working on HTML/CSS/Bootstrap
+-  I’m currently working on HTML/CSS/Bootstrap/JavaScript
 -  I’m currently learning Javascript
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
