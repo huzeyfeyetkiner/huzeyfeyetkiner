@@ -1,7 +1,5 @@
 <h2 align="center"> Hi there,  I'm Huzeyfe 👋</h2>
  
-<h3 align="center">    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> <h3/>
- 
 
 -  I’m currently working with HTML/CSS/Bootstrap/JavaScript
 -  I’m currently learning Javascript, React
