@@ -28,7 +28,7 @@
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
 
-<a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"/></a>
+<a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/></a>
 
 
 
