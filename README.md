@@ -19,16 +19,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a target="_blank" href="https://www.javascript.com" target="blank"><img align="left" alt="Patika" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a target="_blank" href="https://www.javascript.com" target="blank"><img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 
-<a target="_blank" href="https://reactjs.org/docs/getting-started.html" target="blank"><img align="left" alt="Patika" width="40px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/></a>
+<a target="_blank" href="https://reactjs.org/docs/getting-started.html" target="blank"><img align="left" alt="React" width="40px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/></a>
 
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="left" alt="Patika" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="left" alt="Patika" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
 
-<a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Patika" width="40px" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4"/></a>
+<a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"/></a>
 
 
 
