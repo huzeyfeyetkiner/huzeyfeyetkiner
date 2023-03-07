@@ -27,9 +27,14 @@
 
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="left" alt="Patika" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
-<a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Patika" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)"/></a>
+
+<a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Patika" width="40px" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4"/></a>
+
+
+
 
   
+
 
 <br/>
 
