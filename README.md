@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there,  I'm Huzeyfe 👋</h2>
  
 
--  I’m currently working with HTML/CSS/Bootstrap/JavaScript
--  I’m currently learning Javascript, React
+-  I’m currently working with JavaScript, React, HTML, CSS, Bootstrap.
+-  I’m currently focused to imrpove myself about Javascript, React.
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
 
