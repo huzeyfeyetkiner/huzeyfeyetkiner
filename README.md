@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/huzeyfe-yetkiner/" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
-<a target="_blank" href="https://www.hackerrank.com/yetkinerhuzeyfe" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
-<a target="_blank" href="https://app.patika.dev/huzo" target="blank"><img align="left" alt="Patika" width="40px" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png"/></a>
+
 
 <br/><br/>
 
