@@ -2,7 +2,7 @@
  
 
 -  I’m currently working with JavaScript, React, HTML, CSS, Bootstrap.
--  I’m currently focused to imrpove myself about Javascript, React.
+-  I’m currently focused to improve myself about Javascript, React.
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
 
