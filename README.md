@@ -29,22 +29,3 @@
 
 <a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/></a>
 
-
-
-
-  
-
-
-<br/>
-
-
- <hr/>
-
-[![Visitors](http://visitor-badge.glitch.me/badge?page_id=huzeyfeyetkiner.visitor-badge)](https://github.com/huzeyfeyetkiner) 
-
-<p style="vertical-align:top;">
-   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzeyfeyetkiner&layout=compact&theme=dark">
-  </p>
-  <p style="vertical-align:top;">
-  <img alt="" src="https://github-readme-stats.vercel.app/api?username=huzeyfeyetkiner&show_icons=true&theme=dark">
-  </p>
