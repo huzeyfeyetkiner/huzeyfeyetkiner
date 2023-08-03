@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there,  I'm Huzeyfe 👋</h2>
  
 
--  I’m currently working with JavaScript, React, HTML, CSS, Bootstrap.
--  I’m currently focused to improve myself about Javascript, React.
+-  I’m currently working with JavaScript, React, Next.js, React Native, HTML, CSS, Tailwind, Bootstrap.
+-  I’m currently focused to improve myself about Next.js, React Native, Tailwind.
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
 
