@@ -22,7 +22,7 @@
 
 <a target="_blank" href="https://react.dev" target="blank"><img align="left" alt="React" width="40px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/></a>
 
-<a target="_blank" href="https://nextjs.org" target="blank"><img align="left" alt="React" width="40px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/></a>
+<a target="_blank" href="https://nextjs.org" target="blank"><img align="left" alt="Next.js" width="40px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/></a>
 
 
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
@@ -35,6 +35,5 @@
 <a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/></a>
 
 
-<a target="_blank" href="https://tailwindcss.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="
-https://camo.githubusercontent.com/bcd4bda49ef6cd9537db065920f4f4f6ac670eae0e0adf2c5133c19b319f1574/68747470733a2f2f627261646c632e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f627261646c632f7673636f64652d7461696c77696e646373732f302e322e302f313535383034303536333634392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74"/></a>
+<a target="_blank" href="https://tailwindcss.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://santrikoding.com/storage/categories/df6e5b68-ccbd-4c14-9eec-89789e546da3.webp"/></a>
 
