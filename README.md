@@ -20,7 +20,7 @@
 
 <a target="_blank" href="https://www.javascript.com" target="blank"><img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 
-<a target="_blank" href="https://react.dev" target="blank"><img align="left" alt="React" width="40px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/></a>
+<a target="_blank" href="https://react.dev" target="blank"><img align="left" alt="React" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw0wl7ilor9CpJN_WFYVb5v7&ust=1704066343090000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCStP6ruIMDFQAAAAAdAAAAABAD"/></a>
 
 <a target="_blank" href="https://nextjs.org" target="blank"><img align="left" alt="Next.js" width="40px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/></a>
 
