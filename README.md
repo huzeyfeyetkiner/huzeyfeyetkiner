@@ -2,7 +2,7 @@
  
 
 -  I’m currently working with JavaScript, React, Next.js, React Native, HTML, CSS, Tailwind, Bootstrap.
--  I’m currently focused to improve myself about Next.js, React Native, Tailwind.
+-  I’m currently focused to improve myself about React Native, Expo, Tailwind.
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
 
@@ -24,16 +24,14 @@
 
 <a target="_blank" href="https://nextjs.org" target="blank"><img align="left" alt="Next.js" width="40px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/></a>
 
+<a target="_blank" href="https://expo.dev/" target="blank"><img align="left" alt="Expo" width="40px" src="https://avatars.githubusercontent.com/u/12504344?s=280&v=4"/></a>
 
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
-
-
-
 <a target="_blank" href="https://getbootstrap.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/></a>
 
 
-<a target="_blank" href="https://tailwindcss.com" target="blank"><img align="left" alt="Bootstrap" width="40px" src="https://santrikoding.com/storage/categories/df6e5b68-ccbd-4c14-9eec-89789e546da3.webp"/></a>
+<a target="_blank" href="https://tailwindcss.com" target="blank"><img align="left" alt="Tailwind" width="40px" src="https://santrikoding.com/storage/categories/df6e5b68-ccbd-4c14-9eec-89789e546da3.webp"/></a>
 
