@@ -20,7 +20,7 @@
 
 <a target="_blank" href="https://www.javascript.com" target="blank"><img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 
-<a target="_blank" href="https://react.dev" target="blank"><img align="left" alt="React" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw0wl7ilor9CpJN_WFYVb5v7&ust=1704066343090000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCStP6ruIMDFQAAAAAdAAAAABAD"/></a>
+<a target="_blank" href="https://react.dev" target="blank"><img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></a>
 
 <a target="_blank" href="https://nextjs.org" target="blank"><img align="left" alt="Next.js" width="40px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/></a>
 
