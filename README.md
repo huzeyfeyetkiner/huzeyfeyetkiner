@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 <a target="_blank" href="https://www.javascript.com" target="blank"><img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 
