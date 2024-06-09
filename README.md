@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there,  I'm Huzeyfe 👋</h2>
  
-
--  I’m currently working with JavaScript, React, Next.js, React Native, HTML, CSS, Tailwind, Bootstrap.
+-  I’m currently working with TypeScript, JavaScript, React, Next.js, React Native, Expo, HTML, CSS, Tailwind, Bootstrap.
 -  I’m currently focused to improve myself about React Native, Expo, Tailwind.
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
@@ -17,6 +16,10 @@
 <br/><br/>
 
 <h3 align="left">Tech Stack:</h3>
+
+
+
+<a target="_blank" href="https://www.typescriptlang.org/" target="blank"><img align="left" alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/></a>
 
 <a target="_blank" href="https://www.javascript.com" target="blank"><img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 
