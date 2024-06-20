@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there,  I'm Huzeyfe 👋</h2>
  
--  I’m currently working with TypeScript, JavaScript, React, Next.js, React Native, Expo, HTML, CSS, Tailwind, Bootstrap.
--  I’m currently focused to improve myself about React Native, Expo, Tailwind.
+-  I’m a frontend developer who has 1+ year experience.
+-  I'm currently developing mobile and web based projects with React & React Native.
 -  How to reach me: yetkinerhuzeyfe@gmail.com
 
 
