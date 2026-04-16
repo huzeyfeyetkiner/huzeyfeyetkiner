@@ -13,6 +13,9 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/huzeyfe-yetkiner/" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png"/></a>
 
+<a target="_blank" href="https://medium.com/@yetkinerhuzeyfe" target="blank"><img align="left" alt="Medium" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"/></a>
+
+
 
 <br/><br/>
 
